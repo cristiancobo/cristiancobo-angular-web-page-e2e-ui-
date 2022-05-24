@@ -1,0 +1,25 @@
+{
+  "name": "angular-web-page-cypress-training",
+  "version": "1.0.0",
+  "description": "cypress training",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiancobo/cristiancobo-angular-web-page-e2e-ui-.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "[Cristian Cobo] <[cristiandrescobo@gmail.com]> ([cristian.cobo])",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristiancobo/cristiancobo-angular-web-page-e2e-ui-/issues"
+  },
+  "homepage": "https://github.com/cristiancobo/cristiancobo-angular-web-page-e2e-ui-#readme"
+}
